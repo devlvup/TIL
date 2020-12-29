@@ -9,7 +9,7 @@
 * `git init` 
 * `.git/` 폴더를 생성해준다.
 
-![image-20201229151359462](GIT Command.assets/image-20201229151359462.png)
+![image-20201229151359462](GITCommand.assets/image-20201229151359462.png)
 
 (캡쳐법: 윈도우+쉬프트+s)
 
